@@ -1,0 +1,30 @@
+[
+  {
+    "name":"商品1",
+    "img":"1.jpeg",
+    "price":"1.00",
+    "dec":"好吃的",
+    "totalNum":"10",
+    "totalFee":"10.00",
+    "isEvaluate":0,
+    "selectReceived":1
+  },{
+    "name":"商品2",
+    "img":"2.jpeg",
+    "price":"2.00",
+    "dec":"好吃的",
+    "totalNum":"10",
+    "totalFee":"20.00",
+    "isEvaluate":1,
+    "selectReceived":1
+  },{
+    "name":"商品3",
+    "img":"3.jpeg",
+    "price":"2.00",
+    "dec":"好吃的",
+    "totalNum":"10",
+    "totalFee":"20.00",
+    "isEvaluate":0,
+    "selectReceived":0
+  }
+]
